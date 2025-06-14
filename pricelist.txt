@@ -3,5 +3,4 @@ cannon = 20,000
 fuji = 30,000
 sony = 1,00000
 red =  50000
-hZlblDE =10000
-LUMIX5 = 450000
+
